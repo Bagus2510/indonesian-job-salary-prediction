@@ -4,10 +4,12 @@
 
 ![Project Banner](images/image.jpg)
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-[![Scikit-learn](https://img.shields.io/badge/scikit--learn-1.0%2B-orange.svg)](https://scikit-learn.org/)
-[![XGBoost](https://img.shields.io/badge/XGBoost-2.0%2B-red.svg)](https://xgboost.readthedocs.io/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
 **Machine Learning Project for Predicting Salary Based on Job Descriptions in Indonesia**
 
@@ -106,8 +108,6 @@ Jog Description and Salary in Indonesia/
 ├── notebooks/
 │   ├── 01_preprocessing.ipynb     # Data cleaning & preprocessing
 │   ├── 02_eda.ipynb              # Exploratory Data Analysis
-│   ├── natural_langauge_preprocessing/
-│   │   └── 03_modelling_nlp.ipynb # NLP-based modeling
 │   └── regression/
 │       └── 03_modelling_regression.ipynb  # Main regression modeling
 │
