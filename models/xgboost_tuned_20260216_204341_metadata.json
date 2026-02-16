@@ -1,0 +1,32 @@
+{
+    "model_name": "XGBoost Tuned",
+    "timestamp": "2026-02-16T20:43:41.894426",
+    "features": [
+        "experience_level",
+        "education_level",
+        "employment_type",
+        "career_level"
+    ],
+    "hyperparameters": {
+        "colsample_bytree": 0.8,
+        "gamma": 0.1,
+        "learning_rate": 0.05,
+        "max_depth": 7,
+        "n_estimators": 500,
+        "subsample": 0.8,
+        "objective": "reg:squarederror",
+        "random_state": 42
+    },
+    "metrics": {
+        "test_rmse": 0.3964984149057042,
+        "test_r2": 0.6213113766508231,
+        "train_rmse": 0.3837103796066687,
+        "train_r2": 0.6388096498168634,
+        "rmse_gap_pct": 3.225242477218165
+    },
+    "environment": {
+        "sklearn_version": "1.8.0",
+        "xgboost_version": "xgboost"
+    },
+    "model_file": "xgboost_tuned_20260216_204341.pkl"
+}
