@@ -61,17 +61,17 @@ Based on **Feature Importance Analysis** (XGBoost & SHAP values), the top influe
    - Higher experience → significantly higher salary
    - Strongest predictor in the model
    
-2. 🥈 **Education Level** (High Impact)
-   - Advanced degrees correlate with better compensation
+2. 🥈 **Career Level** (High Impact)
+   - Advanced career level correlate with better compensation
    - Second most important feature
    
 3. 🥉 **Employment Type** (Notable Impact)
    - Full-time vs Contract vs Part-time affects salary ranges
    - Significant contribution to predictions
    
-4. **Career Level** (Moderate Impact)
-   - Career progression stages influence compensation
-   - Complements experience level data
+4. **Education Level** (Moderate Impact)
+   - Education progression stages influence compensation
+   - Complements career level data
 
 **Key Insight:** These 4 features alone provide **excellent predictive power**, demonstrating that basic job characteristics are strong salary indicators in the Indonesian job market.
 
