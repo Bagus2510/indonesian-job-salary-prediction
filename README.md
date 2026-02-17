@@ -106,12 +106,11 @@ Jog Description and Salary in Indonesia/
 │   └── test.csv                   # Test set
 │
 ├── notebooks/
-│   ├── 01_preprocessing.ipynb     # Data cleaning & preprocessing
-│   ├── 02_eda.ipynb              # Exploratory Data Analysis
-│   └── regression/
-│       └── 03_modelling_regression.ipynb  # Main regression modeling
+│   ├── 01_preprocessing.ipynb         # Data cleaning & preprocessing
+│   ├── 02_eda.ipynb                   # Exploratory Data Analysis
+│   └── 03_modelling_regression.ipynb  # Main regression modeling
 │
-├── models/                        # Saved trained models
+├── models/                       # Saved trained models
 │
 ├── images/
 │   └── image.jpg                 # Project visualization
